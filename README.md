@@ -1,1 +1,2 @@
 # odin-recipes
+<--Hello World, so far we have learned how to create a repository and the basics of github. We have also learned some basic things of starting a website and the commands for those as well.-->
